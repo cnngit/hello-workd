@@ -1,4 +1,4 @@
-# hello-workd
+# hello-world
 hello github
 
 workd ... -> world
